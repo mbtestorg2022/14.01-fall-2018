@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 11: Monopoly I\t\t\t\t"
+title: 'Lecture 11: Monopoly I    '
 uid: 2db9d08b-52aa-3224-669f-59296b1039e1
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec11_300k.mp4

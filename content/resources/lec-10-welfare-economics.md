@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 10: Welfare Economics\t\t\t\t"
+title: 'Lecture 10: Welfare Economics    '
 uid: 0c66d16d-b27a-737a-4c7d-3cc52ab45acc
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec10_300k.mp4

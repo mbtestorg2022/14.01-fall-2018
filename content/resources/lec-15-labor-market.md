@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 15: Input Markets I\u2014Labor Market \t\t\t\t"
+title: "Lecture 15: Input Markets I\u2014Labor Market     "
 uid: e2042f6f-075b-5b23-2588-6adb4722aa8e
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec15_300k.mp4

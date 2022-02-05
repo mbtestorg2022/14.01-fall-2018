@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 13: Oligopoly\t\t\t\t"
+title: 'Lecture 13: Oligopoly    '
 uid: 21ccd01f-73fd-2bb6-dfc9-79008cb52158
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec13_300k.mp4

@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 19: International Trade: Welfare and Policy\t\t\t\t"
+title: 'Lecture 19: International Trade: Welfare and Policy    '
 uid: 3515c13b-3e9f-f567-f48c-fa61f147f439
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec19_300k.mp4

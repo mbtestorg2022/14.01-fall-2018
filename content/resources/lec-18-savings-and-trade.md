@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 18: Increasing Savings & Introduction to Trade\t\t\t\t"
+title: 'Lecture 18: Increasing Savings & Introduction to Trade    '
 uid: 153071a9-0574-140d-01d1-9f8612e19fba
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec18_300k.mp4

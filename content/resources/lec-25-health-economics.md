@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 25: Health Economics\t\t\t\t"
+title: 'Lecture 25: Health Economics    '
 uid: a2c09991-4bb6-8b7e-acd1-6a2140a4e6b6
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec25_300k.mp4

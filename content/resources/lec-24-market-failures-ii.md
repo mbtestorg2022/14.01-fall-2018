@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 24: Market Failures II: Informational Asymmetry\t\t\t\t"
+title: 'Lecture 24: Market Failures II: Informational Asymmetry    '
 uid: 2398d1e8-383d-8310-2c9f-591c57e15e64
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec24_300k.mp4

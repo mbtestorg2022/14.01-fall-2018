@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 12: Monopoly II\t\t\t\t"
+title: 'Lecture 12: Monopoly II    '
 uid: 304e49e0-e987-1a80-6219-c51e3623fbc8
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec12_300k.mp4

@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 6: Costs\t\t\t\t"
+title: 'Lecture 6: Costs    '
 uid: e2c351f2-0263-faf9-f233-f5f9d9225620
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec06_300k.mp4

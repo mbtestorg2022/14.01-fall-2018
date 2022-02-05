@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 21: Efficiency and Equity\t\t\t\t"
+title: 'Lecture 21: Efficiency and Equity    '
 uid: cd11b313-9a79-ddfa-6fec-df5c32d07ff8
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec21_300k.mp4

@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 17: Making Choices Over Time\t\t\t\t"
+title: 'Lecture 17: Making Choices Over Time    '
 uid: e1d056ad-8fcd-e3fa-c604-9c11bd1a8723
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec17_300k.mp4

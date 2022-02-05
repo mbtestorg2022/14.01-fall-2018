@@ -67,7 +67,18 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 25% Ten problem sets; only the nine highest scores count toward the final grade{{< br >}}- 25% Mid-term exam{{< br >}}- 50% Final exam{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 25% Ten problem sets; only the nine highest scores count toward the final grade
+- 25% Mid-term exam
+- 50% Final exam
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Information
 -------------------

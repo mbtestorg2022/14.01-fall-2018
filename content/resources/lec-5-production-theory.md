@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 5: Production Theory\t\t\t\t"
+title: 'Lecture 5: Production Theory    '
 uid: b9d04200-b097-ceb2-ee54-8b0e6fd4a084
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec05_300k.mp4

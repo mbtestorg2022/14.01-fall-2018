@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 16: Input Markets II\u2014Labor and Capital\t\t\t\t"
+title: "Lecture 16: Input Markets II\u2014Labor and Capital    "
 uid: 157410ce-bcf6-fef4-5dcf-b16a9b5a2bca
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec16_300k.mp4

@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 23: Market Failures I: Externalities\t\t\t\t"
+title: 'Lecture 23: Market Failures I: Externalities    '
 uid: a36920c5-18f3-5340-e124-a0e716b90e84
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec23_300k.mp4

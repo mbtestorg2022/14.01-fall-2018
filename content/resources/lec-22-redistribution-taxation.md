@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 22: Government Redistribution and Taxation\t\t\t\t"
+title: 'Lecture 22: Government Redistribution and Taxation    '
 uid: 689495e9-ea83-9ede-64de-4694bc0da543
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec22_300k.mp4
