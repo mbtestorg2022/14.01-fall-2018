@@ -23,7 +23,7 @@ Curriculum Information
 
 ### Prerequisites
 
-None, although some calculus at the level of [_18.01 Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010/) is used in the course.
+None, although some calculus at the level of [_18.01 Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010) is used in the course.
 
 ### Requirements Satisfied
 
